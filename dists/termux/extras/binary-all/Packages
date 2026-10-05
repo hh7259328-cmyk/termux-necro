@@ -1,0 +1,13 @@
+Package: necro
+Version: 14.0.0
+Architecture: all
+Maintainer: NecroTeam
+Description: NECRO TERMINAL PRO Cyber Glitch Edition
+Depends: git, bash
+Filename: dists/termux/extras/binary-all/necro_14.0.0_all.deb
+Size: 8404
+MD5Sum: d1c5b5f37c9497b83d69448f0bbe10a5
+SHA1: c5fe62a543a0b1f073996b4d6e352f54ec414042
+SHA256: 8e29d7b82e6dc7b770383651a404b9769370d8e3342711431f787f0401fd4307
+SHA512: 93e5a6743cf05896a6bfeb2a70a262291968973da96d43db3629e5a373f64d941576e26ab737ae626aae622b0402c0fef7cdef73a995c4e7430a38b5db1a05f4
+
